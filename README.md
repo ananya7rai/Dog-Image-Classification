@@ -1,1 +1,1 @@
-# Dog-Image-Classification
+# Dog Image Classification
